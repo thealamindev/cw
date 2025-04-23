@@ -20,7 +20,7 @@ const Banner = () => {
     <>
       <Slider {...settings}>
         <div>
-          <div className="bg-[url(/bannerbg.jpg)] bg-no-repeat bg-center bg-cover">
+          <div className="bg-[url(/bannerTwo.webp)] bg-no-repeat bg-center bg-cover">
             <div className="bg-black opacity-70 py-[250px]"></div>
           </div>
         </div>
