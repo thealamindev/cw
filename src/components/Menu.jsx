@@ -108,7 +108,8 @@ const Menu = () => {
             </ul>
           </div>
           <div className="navbar-end">
-            <a className="btn text-lg font-bold">Register Now</a>
+            {/* <a className="btn text-lg font-bold">Register Now</a> */}
+            <a href="/" className="bn5 text-lg font-bold">Register Now</a>
           </div>
         </div>
       </Container>
